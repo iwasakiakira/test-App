@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("11月17日変更1回目")
+        print("11月17日変更2回目")
     }
 
 
